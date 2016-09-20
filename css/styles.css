@@ -17,6 +17,9 @@ header {
 	font-size: x-small;
 }
 .joke {
+	height: 300px;
+	padding-top: 30px;
+	padding-left: 30px;
 	border: solid 5px #c9c9c9;
 	transition: border 0.3s;
 	margin-top: 10px;
@@ -29,7 +32,11 @@ header {
 	background-color: white;
 }
 .joke img {
+	width: 200px;
+	height: 250px;
 	float: left;
 	margin-right: 20px;
 }
+
+
 
